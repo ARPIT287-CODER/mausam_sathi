@@ -1,0 +1,17 @@
+{
+  "short_name": "MausamSathi",
+  "name": "Mausam Sathi - Weather, Health & Safety Companion",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0284c7",
+  "theme_color": "#0284c7",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "AI-Powered Personalized Weather, Health & Safety Companion for Everyone"
+}
